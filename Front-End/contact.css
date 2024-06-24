@@ -1,0 +1,115 @@
+html {
+    padding: 0%;
+    border: 0;
+    margin: 0%;
+    margin-bottom: 100px;
+    padding-bottom: 175px;
+}
+
+body{
+    background-color: #F4F1DE;
+}
+
+.logo {
+    width: 35px;
+    height: 25px;
+    margin: auto;
+    margin-right: 8px;
+}
+
+.navbar {
+    position: relative;
+    height: 5em;
+}
+
+.navbar-brand {
+    position: absolute;
+    left: 50%;
+    margin-left: -52.5px;
+    display: block;
+    font-size: xx-large;
+    color: black;
+}
+
+nav {
+    background-color: #F2CC8F;
+    width: 100%
+}
+
+.nav-link {
+    color: #000000;
+}
+
+section{
+    padding-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: normal;
+    color: #E07A5F;
+    padding: 25px 25px;
+}
+
+form {
+    width:100%;
+}
+
+.flex-column {
+    width: 80%
+}
+
+input[type=text], input[type=email], select, textarea {
+    padding: 12px;
+    border: none;
+    border-radius: 10px;
+    resize: vertical;
+}
+
+input[type=text], input[type=email] {
+    width: 70%;
+    max-width: 300px;
+}
+  
+label {
+    padding: 12px 12px 18px 20px;
+    display: inline-block;
+    color: #E07A5F;
+    font-size: large;
+    margin-left: 60%;
+}
+
+textarea {
+    position: relative;
+    width: 90%;
+    max-width: 600px;
+}
+
+input[type=submit] {
+    position: absolute;
+    left: 69.5%;
+    background-color: #E07A5F;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+}
+
+.col-25 {
+    float: left;
+    width: 35%;
+    margin-top: 6px;
+}
+
+.col-75 {
+    float: left;
+    width: 65%;
+    margin-top: 6px;
+}
+
+footer {
+    background-color: #F2CC8F;
+    padding: 1em;
+    height: 6em;
+}

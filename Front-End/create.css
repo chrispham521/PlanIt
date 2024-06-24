@@ -1,0 +1,99 @@
+body{
+    background-color: #F4F1DE;
+    height: 200%;
+}
+
+.logo {
+    width: 35px;
+    height: 25px;
+    margin: auto;
+    margin-right: 8px;
+}
+
+.navbar {
+    position: relative;
+    height: 5em;
+}
+
+.navbar-brand {
+    position: absolute;
+    left: 50%;
+    margin-left: -52.5px;
+    display: block;
+    font-size: xx-large;
+    color: black;
+}
+
+nav {
+    background-color: #F2CC8F;
+    width: 100%
+}
+
+.nav-link {
+    color: #000000;
+}
+
+.text-color {
+    display: inline-block;
+    color: #E07A5F;
+    font-size: 150%;
+    padding: 14px 20px;
+}
+
+.header-color{
+    color: #ffffff;
+    padding: 14px 20px;
+}
+
+.header-color2{
+    color: #000000;
+
+    font-size: 200%;
+    padding: 25px 20px;
+}
+
+.container {
+    background: url(northfolk-b_Qt9f2egBM-unsplash.jpg);
+    height: 500px;
+    width: 750px;
+    top: 19%;
+    left: 23.75%;
+    border-radius: 10px;
+
+    padding: 14px 20px;
+    position: fixed;
+    border: none;
+}
+  
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 373px;
+    height: 209px;
+
+
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: 20px;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.next-button{
+    background-color: #E07A5F; 
+    border: none;
+    border-radius: 8px;
+    right: 1%;
+    bottom: 15%;
+    position: absolute;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+footer {
+    background-color: #F2CC8F;
+    padding: 1em;
+    height: 6em;
+}

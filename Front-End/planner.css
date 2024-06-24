@@ -1,0 +1,64 @@
+body{
+    background-color: #F4F1DE;
+}
+
+.logo {
+    width: 35px;
+    height: 25px;
+    margin: auto;
+    margin-right: 8px;
+}
+
+.navbar {
+    position: relative;
+    height: 5em;
+}
+
+.navbar-brand {
+    position: absolute;
+    left: 50%;
+    margin-left: -52.5px;
+    display: block;
+    font-size: xx-large;
+    color: black;
+}
+
+nav {
+    background-color: #F2CC8F;
+    width: 100%
+}
+
+.nav-link {
+    color: #000000;
+}
+
+
+.text-color {
+    color: #000000;
+    font-size: 150%;
+}
+
+.text-color2 {
+    color: #000000;
+}
+
+
+.button {
+    margin-bottom: 30px;
+    display: inline-block;
+	
+	background-color: #E07A5F;
+	border-radius: 16px;
+    border: solid #E07A5F;
+    color: white;
+	top: 200%;
+    width: 150px;
+    height: 210px;
+    background: #F2CC8F;
+} 
+
+footer {
+    background-color: #F2CC8F;
+    padding: 1em;
+    height: 6em;
+}
