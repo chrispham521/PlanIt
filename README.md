@@ -1,5 +1,5 @@
 ## 2024 NOTES
-This project was done in collaboration with 4 fellow students during the Computing and Informatics II & III courses.
+This project was done in collaboration with 4 fellow students during the Computing and Informatics II & III courses. This project was originally placed in a separate repository on GitLab, so the information regarding cloning the project (specifically the clone link) is wrong.
 
 ## PlanIt
 PlanIt is a web application that allows users to create custom planners based on a number of options provided to the user. The resulting planner is displayed as a pdf that the user can download.
